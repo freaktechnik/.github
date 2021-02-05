@@ -10,7 +10,7 @@ In general only the most recent version is fully supported, but I may still take
 To report a vulnerability, please use one of these confidential channels:
 
 - By email to martin@humanoids.be (PGP key available, same as commit signature key, should also have WKD)
-- On matrix at @freaktechnik:humanoids.be
+- On matrix at [@freaktechnik:humanoids.be](https://matrix.to/#/@freaktechnik:humanoids.be)
 
 I will assess the vulnerability and use best judgment to decide how much of a risk I think it is and will communicate that back to you.
 I won't guarantee that I'll let you know when the vulnerability is finally fixed if I decide to delay the fix, however I will give my best.
