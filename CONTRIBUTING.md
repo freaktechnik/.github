@@ -61,3 +61,7 @@ the repository. You should find a link to the service in the README.
 
 Same rules as code contributions apply. In general, if there is no user documentation a discussion about how user documentation should work should happen first.
 Technical/code documentation is always welcome. If it gets too big for the README and there's no dedicated place yet, a `docs` folder in the root is a safe bet.
+
+## Social/Recommendations/Reviews
+
+You really enjoy the project but don't know how to help out? Starring the repo, sharing it with your friends, sharing it on social media or even blogging about it is always a help. Some projects will also appear in places that allow leaving ratings, so consider leaving one! Thank you in advance for spreading the word.
