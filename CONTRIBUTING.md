@@ -22,6 +22,8 @@ Should there be tests in the project (often ran with `npm test` and `npm run lin
 
 I tend to have my own unique brand of code formatting. Please try to follow the exisiting format, especially when enforced by a linter. I'm not looking to change what I like, sorry.
 
+Any pull request in the repository is expected to also accept the license of the project. I generally try to attribute individual contributors in changelogs and sometimes in the README.
+
 Lastly, always feel free to fork the project if you disagree with my decision! It's open source software and all you have to do is respect the license.
 I do ask kidnly that you rebrand, in order to avoid any confusion that may arise from a fork.
 
@@ -65,6 +67,8 @@ similar.
 
 Some of my projects will have the possibility of translations. Usually those will be gathered at an external service and included at build time and not be part of
 the repository. You should find a link to the service in the README.
+
+Translations will fall under the same license as the source code in the repository, in general.
 
 ## Documentation
 
