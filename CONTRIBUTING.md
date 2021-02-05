@@ -40,6 +40,11 @@ but having clear STR leads to much swifter issue isolation, and thus fixing.
 
 For the actual behavior, consider including a screenshot or video when appropriate.
 
+### The Bug You've Found was Already Reported
+
+Neat, that means I'm already aware of it. Unless you have new information to add, please just thumbs up the issue and don't post a comment. More notifications means less time for coding and the comment will also lead to more work to find the relevant information in an issue. I'm also sorry if I don't think the bug
+you're hitting is world shakingly important or can't figure out why it happens.
+
 ### My Response
 
 I will likely not respond much, if I understand the bug report and can immediately reproduce. In a perfect world I'd pretty quickly respond with a code fix and
