@@ -18,6 +18,10 @@ I usually have rudimentary setup instructions in the README. If that shouldn't b
 also feel free to contact me, and most importantly, please contribute the information that you felt was key for you back to the project. The best documentation is
 written by many people with different perspectives.
 
+Should there be tests in the project (often ran with `npm test` and `npm run lint`), please try to make them pass before submitting a pull request. Usually the repository will have CI that will fail, too. If you can't figure out a failing test or are intimidated by the test infrastructure, feel free to ignore them and explicitly note so. However, linting should always pass.
+
+I tend to have my own unique brand of code formatting. Please try to follow the exisiting format, especially when enforced by a linter. I'm not looking to change what I like, sorry.
+
 Lastly, always feel free to fork the project if you disagree with my decision! It's open source software and all you have to do is respect the license.
 I do ask kidnly that you rebrand, in order to avoid any confusion that may arise from a fork.
 
