@@ -5,6 +5,8 @@
 Since this is a general file that will show up by default on my projects it's hard to give an absolute statement.
 In general only the most recent version is fully supported, but I may still take actions on older versions, if it seems appropriate.
 
+The exception are archived repositories. If the repository is archived, it is safe to assume that I no longer maintain the project. If it is distributed via a platform like NPM where you can mark things as deprecated and I haven't, please still let me know.
+
 ## Reporting a Vulnerability
 
 To report a vulnerability, please use one of these confidential channels:
