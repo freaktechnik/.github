@@ -9,8 +9,8 @@ to file a new issue.
 In case you can't locate a support channel, you can contact me by:
 
 - Email: martin@humanoids.be
-- Matrix: @freaktechnik:humanoids.be
-- Fediverse/ActivityPub: @freaktechnik@chaos.social
+- Matrix: [@freaktechnik:humanoids.be](https://matrix.to/#/@freaktechnik:humanoids.be)
+- Fediverse/ActivityPub: [@freaktechnik@chaos.social](https://chaos.social/@freaktechnik)
 
 Make sure to not only state your request, but also details on your environment, like operating system and version of the project, as well as potentially relevant
 details like the language you use it in. Screenshots or videos are greatly appreciated for better illustration.
