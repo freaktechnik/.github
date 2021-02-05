@@ -11,8 +11,8 @@ is confirmed interest).
 If you want to make sure, feel free to contact me via the following messaging channels:
 
 - By mail at martin@humanoids.be
-- On matrix to @freaktechnik:humanoids.be
-- In the fediverse at @freaktechnik@chaos.social
+- On matrix to [@freaktechnik:humanoids.be](https://matrix.to/#/@freaktechnik:humanoids.be)
+- In the fediverse at [@freaktechnik@chaos.social](https://chaos.social/@freaktechnik)
 
 I usually have rudimentary setup instructions in the README. If that shouldn't be the case (since it seems like wasted time for some small 2 hour project), please
 also feel free to contact me, and most importantly, please contribute the information that you felt was key for you back to the project. The best documentation is
