@@ -25,7 +25,7 @@ I tend to have my own unique brand of code formatting. Please try to follow the 
 Any pull request in the repository is expected to also accept the license of the project. I generally try to attribute individual contributors in changelogs and sometimes in the README.
 
 Lastly, always feel free to fork the project if you disagree with my decision! It's open source software and all you have to do is respect the license.
-I do ask kidnly that you rebrand, in order to avoid any confusion that may arise from a fork.
+I do ask kindly that you rebrand, in order to avoid any confusion that may arise from a fork.
 
 ## Bug Reports
 
